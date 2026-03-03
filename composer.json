@@ -1,0 +1,27 @@
+{
+    "name": "nlk/image-editor",
+    "description": "A Laravel package for an advanced image editor.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mahmud Abbas"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "illuminate/support": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nlk\\ImageEditor\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nlk\\ImageEditor\\ImageEditorServiceProvider"
+            ]
+        }
+    }
+}
