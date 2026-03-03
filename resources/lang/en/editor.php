@@ -65,4 +65,11 @@ return [
     'bg_image_fit' => 'Image Fit',
     'cancel' => 'Cancel',
     'save' => 'Save',
+    'apply' => 'Apply',
+    'bg_grad_ltr' => 'Left to Right',
+    'bg_grad_ttb' => 'Top to Bottom',
+    'bg_grad_diagonal' => 'Diagonal',
+    'bg_grad_diagonal_rev' => 'Diagonal Reverse',
+    'bg_grad_diagonal_bl' => 'Diagonal Bottom Left',
+    'color' => 'Color',
 ];

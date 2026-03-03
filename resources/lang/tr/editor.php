@@ -65,4 +65,11 @@ return [
     'bg_image_fit' => 'Görüntü Sığdırma',
     'cancel' => 'İptal',
     'save' => 'Kaydet',
+    'apply' => 'Uygula',
+    'bg_grad_ltr' => 'Soldan Sağa',
+    'bg_grad_ttb' => 'Yukarıdan Aşağıya',
+    'bg_grad_diagonal' => 'Çapraz',
+    'bg_grad_diagonal_rev' => 'Ters Çapraz',
+    'bg_grad_diagonal_bl' => 'Çapraz Sol Alt',
+    'color' => 'Renk',
 ];

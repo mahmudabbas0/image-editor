@@ -65,4 +65,11 @@ return [
     'bg_image_fit' => 'ملاءمة الصورة',
     'cancel' => 'إلغاء',
     'save' => 'حفظ',
+    'apply' => 'تطبيق',
+    'bg_grad_ltr' => 'من اليسار لليمين',
+    'bg_grad_ttb' => 'من الأعلى للأسفل',
+    'bg_grad_diagonal' => 'قطري',
+    'bg_grad_diagonal_rev' => 'قطري عكسي',
+    'bg_grad_diagonal_bl' => 'قطري لليسار',
+    'color' => 'لون',
 ];

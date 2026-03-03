@@ -186,7 +186,8 @@ var NLKImageEditor = (function () {
                 evented: false,
                 data: { type: 'main' },
                 originX: 'left',
-                originY: 'top'
+                originY: 'top',
+                lockUniScaling: true
             });
 
             fabricCanvas.add(img);
@@ -670,6 +671,7 @@ var NLKImageEditor = (function () {
                 top: ch / 2 - (img.height * scale) / 2,
                 scaleX: scale, scaleY: scale,
                 selectable: true, evented: true,
+                lockUniScaling: true
             });
             fabricCanvas.add(img);
             fabricCanvas.setActiveObject(img);
